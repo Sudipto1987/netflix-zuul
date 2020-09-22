@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RestController;
 import com.sudipto.microservice.limitsservice.bean.LimitConfiguration;
 
-
+//making a test change in limits
 @RestController
 public class LimitsConfigurationController {
 	
