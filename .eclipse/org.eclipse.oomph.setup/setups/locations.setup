@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<setup:LocationCatalog
+    xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI"
+    xmlns:setup="http://www.eclipse.org/oomph/setup/1.0">
+  <installation>
+    <key href="file:/C:/Users/SUDIPTO%20ROY/eclipse/jee-2019-06/eclipse/configuration/org.eclipse.oomph.setup/installation.setup#/"/>
+    <value href="file:/C:/Users/SUDIPTO%20ROY/eclipse-workspace/oxygen/Git/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/C:/Users/SUDIPTO%20ROY/eclipse-workspace/oxygen/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/C:/Users/SUDIPTO%20ROY/eclipse-workspace/oxygen/kafka/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/C:/Users/SUDIPTO%20ROY/eclipse-workspace/oxygen/test/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+  </installation>
+  <installation>
+    <key href="file:/C:/Users/SUDIPTO%20ROY/eclipse/jee-2018-12/eclipse/configuration/org.eclipse.oomph.setup/installation.setup#/"/>
+    <value href="file:/C:/Users/SUDIPTO%20ROY/eclipse-workspace/Microservices/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/C:/Users/SUDIPTO%20ROY/eclipse-workspace/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+  </installation>
+  <workspace>
+    <key href="file:/C:/Users/SUDIPTO%20ROY/eclipse-workspace/oxygen/Git/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/C:/Users/SUDIPTO%20ROY/eclipse/jee-2019-06/eclipse/configuration/org.eclipse.oomph.setup/installation.setup#/"/>
+  </workspace>
+  <workspace>
+    <key href="file:/C:/Users/SUDIPTO%20ROY/eclipse-workspace/oxygen/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/C:/Users/SUDIPTO%20ROY/eclipse/jee-2019-06/eclipse/configuration/org.eclipse.oomph.setup/installation.setup#/"/>
+  </workspace>
+  <workspace>
+    <key href="file:/C:/Users/SUDIPTO%20ROY/eclipse-workspace/oxygen/kafka/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/C:/Users/SUDIPTO%20ROY/eclipse/jee-2019-06/eclipse/configuration/org.eclipse.oomph.setup/installation.setup#/"/>
+  </workspace>
+  <workspace>
+    <key href="file:/C:/Users/SUDIPTO%20ROY/eclipse-workspace/oxygen/test/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/C:/Users/SUDIPTO%20ROY/eclipse/jee-2019-06/eclipse/configuration/org.eclipse.oomph.setup/installation.setup#/"/>
+  </workspace>
+  <workspace>
+    <key href="file:/C:/Users/SUDIPTO%20ROY/eclipse-workspace/Microservices/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/C:/Users/SUDIPTO%20ROY/eclipse/jee-2018-12/eclipse/configuration/org.eclipse.oomph.setup/installation.setup#/"/>
+  </workspace>
+  <workspace>
+    <key href="file:/C:/Users/SUDIPTO%20ROY/eclipse-workspace/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/C:/Users/SUDIPTO%20ROY/eclipse/jee-2018-12/eclipse/configuration/org.eclipse.oomph.setup/installation.setup#/"/>
+  </workspace>
+</setup:LocationCatalog>
